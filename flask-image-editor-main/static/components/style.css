@@ -1,0 +1,40 @@
+.mainContainer {
+      background-color: #CCC8AA;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      overflow: auto; /* Add this to allow scrolling content inside the container */
+    }
+    
+
+.banner{
+      height: 15rem;
+      width: 81rem;
+      margin-top: 1rem;
+      margin-bottom: 2rem;
+}
+
+.sub{
+      margin-left: 35rem;
+      width: 7rem;
+}
+
+.para{
+      background-color: whitesmoke;
+      padding: 1rem;
+      border-radius: 1rem;
+}
+
+.name{
+      color: red;
+      font-weight: bolder;
+}
+
+.manual{
+      height: auto;
+      width: 81rem;
+      margin-top: 1rem;
+      margin-bottom: 2rem;
+}
